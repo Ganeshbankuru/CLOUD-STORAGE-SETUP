@@ -10,6 +10,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
+As part of my first task, I used the AWS Free Tier to create and configure an S3 bucket for hosting a static website. Using the 5 GB free storage provided by the Free Tier, I uploaded files like index.html and images, and enabled static website hosting. I also configured bucket permissions to allow public access so the site could be viewed from any browser. This task demonstrated how to efficiently use S3 within Free Tier limits to deploy and share web content.
+
 
 Task 1: Create a s3 bucket and Host a Static Website on AWS S3
 
