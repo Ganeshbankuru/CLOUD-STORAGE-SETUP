@@ -10,6 +10,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
+
 Task 1: Create a s3 bucket and Host a Static Website on AWS S3
 
 step 1: Create a New S3 Bucket Go to the AWS S3 Console
